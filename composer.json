@@ -2,6 +2,7 @@
     "name": "atomicplan/plate-icon-provider",
     "type": "typo3-cms-extension",
     "description": "Provides an custom TCA type for icon-selection and make icons selectable in the pageconfig",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Kolya von Droste zu Vischering",
