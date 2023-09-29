@@ -1,9 +1,4 @@
 mod.tx_bwicons {
-    default = Blueways\BwIcons\Provider\FileIconProvider
-    default {
-        title = Default Icons
-        folder = EXT:plate_icon_provider/Resources/Public/Icons/Default
-    }
     typo3icons = Blueways\BwIcons\Provider\FileIconProvider
     typo3icons {
         title = Typo3 Icons
