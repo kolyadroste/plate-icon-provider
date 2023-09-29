@@ -1,7 +1,7 @@
 {
     "name": "atomicplan/plate-icon-provider",
     "type": "typo3-cms-extension",
-    "description": "Provides an custom TCA type for icon-selection and make icons selectable in the pageconfig",
+    "description": "depends on blueways/bw-icons and provides some predefined Iconsets",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
@@ -9,7 +9,6 @@
             "role": "Developer"
         }
     ],
-    "version": "0.5.0",
     "require": {
         "php": "^7.4 || ^8.0",
         "typo3/cms-core": "^11.0 || ^12.0",
